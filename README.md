@@ -1,0 +1,42 @@
+# 🚀 Guilherme Nestor — Desafio Backend SEA Tecnologia
+
+Bem-vindo ao meu projeto desenvolvido para o processo seletivo da **SEA Tecnologia**.  
+Aqui você encontra toda a estrutura do backend, tecnologias utilizadas, regras de negócio, autenticação, endpoints e instruções de teste.
+
+Além disso, incluí também um **frontend em React**, totalmente funcional e integrado ao backend (mesmo tendo encontrado algumas dificuldades na finalização).
+
+---
+
+## 🛠️ Tecnologias Utilizadas — Backend
+
+- **Java 17**
+- **Spring Boot 3**
+- **Spring Web / Security / Validation**
+- **Spring Data JPA**
+- **Hibernate**
+- **Lombok**
+- **Maven**
+- **H2 Database**
+- **Integração com ViaCEP**
+
+---
+
+## 🖥️ Frontend (Opcional do Desafio)
+
+Mesmo não sendo obrigatório, desenvolvi também um frontend em **React**, que está funcional e consegue consumir todo o backend.
+
+### Tecnologias usadas:
+- **React**
+- **Axios**
+- **React Router**
+- **CSS / Tailwind (opcional — caso tiver usado)**
+- **Fetch API (em algumas partes)**
+
+---
+
+## ▶️ Como Rodar o Backend
+
+### 1️⃣ Clonar o repositório
+```bash
+git clone https://github.com/seu-repo/backend
+cd backend
