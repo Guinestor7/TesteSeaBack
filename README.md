@@ -3,7 +3,7 @@
 Bem-vindo ao meu projeto desenvolvido para o processo seletivo da **SEA Tecnologia**.  
 Aqui você encontra toda a estrutura do backend, tecnologias utilizadas, regras de negócio, autenticação, endpoints e instruções de teste.
 
-Além disso, incluí também um **frontend em React**, totalmente funcional e integrado ao backend (mesmo tendo encontrado algumas dificuldades na finalização).
+Além disso, incluí também um **frontend em React**, funcional, mas encontrei dificuldades em conectar 100% ao backend.
 
 ---
 
@@ -23,14 +23,12 @@ Além disso, incluí também um **frontend em React**, totalmente funcional e in
 
 ## 🖥️ Frontend (Opcional do Desafio)
 
-Mesmo não sendo obrigatório, desenvolvi também um frontend em **React**, que está funcional e consegue consumir todo o backend.
+Mesmo não sendo obrigatório, desenvolvi também um frontend em **React**, que está funcional, mas nao consegui aplicar todos os requisitos de cadastro de usuarios ao front.
 
 ### Tecnologias usadas:
 - **React**
 - **Axios**
-- **React Router**
-- **CSS / Tailwind (opcional — caso tiver usado)**
-- **Fetch API (em algumas partes)**
+- **CSS 
 
 ---
 
