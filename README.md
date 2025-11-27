@@ -36,5 +36,4 @@ Mesmo não sendo obrigatório, desenvolvi também um frontend em **React**, que 
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seu-repo/backend
-cd backend
+https://github.com/Guinestor7/TesteSeaBack.git
